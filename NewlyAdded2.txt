@@ -1,1 +1,0 @@
-newly added test file2 to test add command
